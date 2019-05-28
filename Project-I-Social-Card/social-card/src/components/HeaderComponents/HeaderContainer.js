@@ -5,7 +5,7 @@ import './Header.css';
 
 const HeaderContainer = () => {
   return (
-    <header>
+    <header className="header">
       <ImageThumbnail />
       <HeaderContent />
     </header>

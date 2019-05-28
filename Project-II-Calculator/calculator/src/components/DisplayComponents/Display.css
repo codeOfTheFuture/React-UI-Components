@@ -1,0 +1,11 @@
+.display {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  width: 240px;
+  height: 90px;
+  border: 1px solid blue;
+  font-size: 3rem;
+  padding-right: 1.2rem;
+  box-sizing: border-box;
+}

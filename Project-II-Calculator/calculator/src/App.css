@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75%;
+  height: 100vh;
+  margin: auto;
+  overflow: hidden;
+}
+
+.calc {
+  width: 240px;
+  height: 390px;
+  border: 1px solid black;
+}

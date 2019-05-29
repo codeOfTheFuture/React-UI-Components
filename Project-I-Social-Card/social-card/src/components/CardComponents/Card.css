@@ -1,1 +1,32 @@
 /* All styles for your Card Components live here */
+.card {
+  text-decoration: none;
+  color: #000;
+}
+
+.banner {
+  width: 710px;
+  margin-left: 70px;
+  border-radius: 5px;
+}
+
+.card-content {
+  width: 650px;
+  margin-left: 100px;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-content h2 {
+  font-size: 22px;
+  text-decoration: none;
+  margin: 5px 0;
+}
+
+.card-content p {
+  margin: 5px 0;
+}
+
+.card-content p:last-child {
+  color: grey;
+}
